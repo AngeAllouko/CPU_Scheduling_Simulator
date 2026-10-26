@@ -1,6 +1,6 @@
 # CPU Scheduling Algorithm Simulator
 
-Clean dark glassmorphism-inspired desktop application built with **pure Python + Tkinter + Matplotlib**.
+Clean dark desktop application built with **pure Python + Tkinter + Matplotlib**.
 
 ## Structure
 
