@@ -25,12 +25,12 @@ CPU_Scheduling_Simulator/
 ## Requirements
 
 - Python 3.8+
-- matplotlib (`pip install matplotlib`)
+- matplotlib 
+- Tkinter
 
 ## How to run
 
 ```bash
-cd CPU_Scheduling_Simulator
 python main.py
 ```
 
