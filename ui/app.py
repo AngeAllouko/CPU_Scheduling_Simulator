@@ -111,7 +111,7 @@ class CPUSchedulerApp(tk.Tk):
         self._label(tip, "TIP", size=8, bold=True, color=ACCENT).pack(
             anchor="w", padx=12, pady=(10, 2))
         self._label(tip,
-                    "Lower number = higher\npriority.\nAdd processes then\nclick Simulate.",
+                    "Lower number = higher\npriority.",
                     size=8, color=TEXT_DIM).pack(anchor="w", padx=12, pady=(0, 10))
 
         # ── Main content ──
